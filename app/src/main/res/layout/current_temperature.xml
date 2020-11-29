@@ -16,8 +16,9 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
+        android:id="@+id/tvCloudy"
         android:layout_width="match_parent"
-        android:layout_height="37dp"
+        android:layout_height="@dimen/tvCloudy_height"
         android:gravity="center_horizontal|center_vertical"
         android:text="@string/cloudy"
         app:layout_constraintEnd_toEndOf="parent"
