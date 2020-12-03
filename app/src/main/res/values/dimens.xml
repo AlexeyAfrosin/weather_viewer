@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bt_settings_margin_top">16dp</dimen>
+    <dimen name="linear_layout_margin_start">16dp</dimen>
+    <dimen name="floating_action_button_margin_top">18dp</dimen>
+    <dimen name="tv_city_name_margin_top">10dp</dimen>
+    <dimen name="tv_city_name_width">234dp</dimen>
+    <dimen name="tvCloudy_height">37dp</dimen>
+    <dimen name="tv_time_height">35dp</dimen>
+    <dimen name="cv_temperature_constraint_layout_height">152dp</dimen>
+    <dimen name="cv_temperature_constraint_layout_padding">16dp</dimen>
+    <dimen name="tv_wind_speed_margin_top">12dp</dimen>
+    <dimen name="tv_wind_speed_unit_margin_start">4dp</dimen>
+    <dimen name="tv_wind_speed_unit_margin_top">12dp</dimen>
+    <dimen name="inc_temperature_to_temp_card_margin_top">16dp</dimen>
+    <dimen name="tv_current_temperature_height">37dp</dimen>
+    <dimen name="tv_current_temperature_text_size">24sp</dimen>
+    <dimen name="tv_degree_symbol_height">37dp</dimen>
+    <dimen name="tv_degree_symbol_text_size">24sp</dimen>
+
+
+</resources>
